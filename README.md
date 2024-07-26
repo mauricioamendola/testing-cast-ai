@@ -17,6 +17,11 @@ terraform plan
 
 ```
 
+```sh {"id":"01J3K27P3S0Y57N0VP27YJPJG0"}
+cd tf-cluster
+terraform plan
+```
+
 ```sh {"id":"01J3D9HDYJGRC2CPJR964FJ88C"}
 cd tf-cluster && terraform apply
 ```
